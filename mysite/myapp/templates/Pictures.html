@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Recording</title>
+    <link rel="stylesheet" href="/static/css/styles.css">
+</head>
+<body>
+<h1>Facial Recognition System</h1>
+<div id="container" id>
+    <img src="{% url 'video_cap' %}">
+    <div>
+        <button class="button button2">Start Camera</button>
+        <button class="button button3" onclick="location.href='{% url 'take_attendance' %}'">Stop Camera</button>
+    </div>
+</div>
+</body>
+</html>

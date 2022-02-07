@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Start</title>
+   <link rel="stylesheet" href="/static/css/styles.css">
+</head>
+<body>
+<h1>Facial Recognition System</h1>
+<div id="container" id>
+  <video autoplay="true" id="videoElement"></video>
+  <div>
+    <button class="button button2" onclick="location.href='{% url 'home' %}'">Start Camera</button>
+    <button class="button button3">Stop Camera</button>
+    <button class="button button4" onclick="location.href='{% url 'index' %}'">Home</button>
+  </div>
+</div>
+</body>
+</html>
