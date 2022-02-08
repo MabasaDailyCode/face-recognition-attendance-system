@@ -6,12 +6,12 @@ The main objective of this project is to develop a web-based automated multiple 
 
 ## Screenshots
 <p float="left">
-  <img src="mysite/screenshots/architecture.jpg" width="500" height="300">
-  <img src="mysite/screenshots/register.jpg" width="500" height="300">
+  <img src="mysite/screenshots/architecture.jpg" width="400" height="250">
+  <img src="mysite/screenshots/register.jpg" width="400" height="250">
 </p>
 <p float="left">
-  <img src="mysite/screenshots/attendance.jpg" width="500" height="300" />
-  <img src="mysite/screenshots/mark.jpg" width="500" height="300"/> 
+  <img src="mysite/screenshots/attendance.jpg" width="400" height="250" />
+  <img src="mysite/screenshots/mark.jpg" width="400" height="250"/> 
 </p>
 
 # Installation
